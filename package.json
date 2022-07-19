@@ -1,0 +1,18 @@
+{
+  "name": "servidornode",
+  "version": "1.0.0",
+  "description": "servidor en nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Santiago",
+    "Hernandez"
+  ],
+  "author": "Santiago Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
