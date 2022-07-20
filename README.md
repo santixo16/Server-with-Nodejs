@@ -8,4 +8,4 @@ To install the dependencies, run the following command:
 
 Once you install the dependencies (Express), you will be able to run the server by following the command:
 
-node app.js
+<code>node app.js</code>
